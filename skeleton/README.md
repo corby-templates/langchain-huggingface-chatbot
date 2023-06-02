@@ -1,6 +1,6 @@
-# LangChain With Custom Huggingface LLM template
+# {{ params.chatbot_name }}
 
-This project is a simple template implementing a chatbot that uses Falcon-7B LLM
+This project is a simple chatbot that uses Falcon-7B LLM
 
 ## How to run
 
